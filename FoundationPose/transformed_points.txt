@@ -1,0 +1,2945 @@
+# Transformed points from object tracking
+
+# Frame 0
+# object center in camera frame
+0.034189
+-0.033846
+0.518294
+1.000000
+# object center in robot frame
+0.371938
+0.012811
+0.099551
+1.000000
+# pt_transformed1
+0.379819
+-0.063618
+0.090885
+1.000000
+
+# pt_transformed2
+0.364057
+0.089241
+0.108217
+1.000000
+
+# Frame 1
+# object center in camera frame
+0.032521
+-0.035618
+0.515504
+1.000000
+# object center in robot frame
+0.371387
+0.014479
+0.102809
+1.000000
+# pt_transformed1
+0.378726
+-0.062110
+0.095137
+1.000000
+
+# pt_transformed2
+0.364048
+0.091069
+0.110481
+1.000000
+
+# Frame 2
+# object center in camera frame
+0.032604
+-0.035423
+0.516079
+1.000000
+# object center in robot frame
+0.371628
+0.014396
+0.102251
+1.000000
+# pt_transformed1
+0.379154
+-0.062196
+0.094781
+1.000000
+
+# pt_transformed2
+0.364101
+0.090987
+0.109721
+1.000000
+
+# Frame 3
+# object center in camera frame
+0.032561
+-0.035076
+0.516079
+1.000000
+# object center in robot frame
+0.371370
+0.014439
+0.102019
+1.000000
+# pt_transformed1
+0.378786
+-0.062125
+0.094174
+1.000000
+
+# pt_transformed2
+0.363954
+0.091004
+0.109865
+1.000000
+
+# Frame 4
+# object center in camera frame
+0.032308
+-0.034813
+0.516730
+1.000000
+# object center in robot frame
+0.371610
+0.014692
+0.101359
+1.000000
+# pt_transformed1
+0.379202
+-0.061892
+0.093876
+1.000000
+
+# pt_transformed2
+0.364019
+0.091276
+0.108843
+1.000000
+
+# Frame 5
+# object center in camera frame
+0.032073
+-0.034085
+0.517806
+1.000000
+# object center in robot frame
+0.371789
+0.014927
+0.100072
+1.000000
+# pt_transformed1
+0.379710
+-0.061566
+0.092019
+1.000000
+
+# pt_transformed2
+0.363869
+0.091419
+0.108126
+1.000000
+
+# Frame 6
+# object center in camera frame
+0.031540
+-0.033545
+0.517846
+1.000000
+# object center in robot frame
+0.371415
+0.015460
+0.099682
+1.000000
+# pt_transformed1
+0.379245
+-0.060979
+0.091056
+1.000000
+
+# pt_transformed2
+0.363585
+0.091900
+0.108308
+1.000000
+
+# Frame 7
+# object center in camera frame
+0.031151
+-0.033035
+0.517466
+1.000000
+# object center in robot frame
+0.370781
+0.015849
+0.099623
+1.000000
+# pt_transformed1
+0.378455
+-0.060631
+0.091228
+1.000000
+
+# pt_transformed2
+0.363107
+0.092330
+0.108018
+1.000000
+
+# Frame 8
+# object center in camera frame
+0.031177
+-0.032826
+0.516836
+1.000000
+# object center in robot frame
+0.370204
+0.015823
+0.099951
+1.000000
+# pt_transformed1
+0.377843
+-0.060691
+0.091835
+1.000000
+
+# pt_transformed2
+0.362566
+0.092338
+0.108068
+1.000000
+
+# Frame 9
+# object center in camera frame
+0.031417
+-0.033144
+0.516743
+1.000000
+# object center in robot frame
+0.370379
+0.015583
+0.100233
+1.000000
+# pt_transformed1
+0.377783
+-0.060971
+0.092275
+1.000000
+
+# pt_transformed2
+0.362974
+0.092137
+0.108192
+1.000000
+
+# Frame 10
+# object center in camera frame
+0.031664
+-0.033464
+0.516058
+1.000000
+# object center in robot frame
+0.370158
+0.015336
+0.100956
+1.000000
+# pt_transformed1
+0.377666
+-0.061251
+0.093426
+1.000000
+
+# pt_transformed2
+0.362650
+0.091924
+0.108487
+1.000000
+
+# Frame 11
+# object center in camera frame
+0.032137
+-0.033586
+0.514857
+1.000000
+# object center in robot frame
+0.369445
+0.014863
+0.101930
+1.000000
+# pt_transformed1
+0.377145
+-0.061631
+0.093680
+1.000000
+
+# pt_transformed2
+0.361746
+0.091357
+0.110181
+1.000000
+
+# Frame 12
+# object center in camera frame
+0.032253
+-0.033415
+0.514750
+1.000000
+# object center in robot frame
+0.369247
+0.014747
+0.101895
+1.000000
+# pt_transformed1
+0.376757
+-0.061836
+0.094330
+1.000000
+
+# pt_transformed2
+0.361736
+0.091331
+0.109461
+1.000000
+
+# Frame 13
+# object center in camera frame
+0.031983
+-0.033242
+0.514233
+1.000000
+# object center in robot frame
+0.368772
+0.015017
+0.102164
+1.000000
+# pt_transformed1
+0.376076
+-0.061547
+0.094213
+1.000000
+
+# pt_transformed2
+0.361468
+0.091582
+0.110115
+1.000000
+
+# Frame 14
+# object center in camera frame
+0.031856
+-0.032816
+0.513050
+1.000000
+# object center in robot frame
+0.367664
+0.015144
+0.102758
+1.000000
+# pt_transformed1
+0.374483
+-0.061506
+0.095206
+1.000000
+
+# pt_transformed2
+0.360844
+0.091794
+0.110309
+1.000000
+
+# Frame 15
+# object center in camera frame
+0.031765
+-0.032856
+0.512366
+1.000000
+# object center in robot frame
+0.367236
+0.015235
+0.103293
+1.000000
+# pt_transformed1
+0.374078
+-0.061405
+0.095662
+1.000000
+
+# pt_transformed2
+0.360394
+0.091874
+0.110924
+1.000000
+
+# Frame 16
+# object center in camera frame
+0.032096
+-0.032587
+0.511195
+1.000000
+# object center in robot frame
+0.366252
+0.014904
+0.103982
+1.000000
+# pt_transformed1
+0.372885
+-0.061755
+0.096358
+1.000000
+
+# pt_transformed2
+0.359620
+0.091563
+0.111607
+1.000000
+
+# Frame 17
+# object center in camera frame
+0.032349
+-0.032691
+0.509608
+1.000000
+# object center in robot frame
+0.365268
+0.014651
+0.105231
+1.000000
+# pt_transformed1
+0.371437
+-0.062027
+0.097417
+1.000000
+
+# pt_transformed2
+0.359099
+0.091330
+0.113046
+1.000000
+
+# Frame 18
+# object center in camera frame
+0.032442
+-0.032815
+0.508176
+1.000000
+# object center in robot frame
+0.364402
+0.014558
+0.106378
+1.000000
+# pt_transformed1
+0.370491
+-0.062107
+0.098380
+1.000000
+
+# pt_transformed2
+0.358312
+0.091224
+0.114377
+1.000000
+
+# Frame 19
+# object center in camera frame
+0.032909
+-0.033086
+0.506558
+1.000000
+# object center in robot frame
+0.363521
+0.014091
+0.107762
+1.000000
+# pt_transformed1
+0.369177
+-0.062627
+0.099951
+1.000000
+
+# pt_transformed2
+0.357865
+0.090809
+0.115574
+1.000000
+
+# Frame 20
+# object center in camera frame
+0.032949
+-0.033472
+0.505073
+1.000000
+# object center in robot frame
+0.362814
+0.014051
+0.109124
+1.000000
+# pt_transformed1
+0.368668
+-0.062688
+0.101664
+1.000000
+
+# pt_transformed2
+0.356959
+0.090789
+0.116583
+1.000000
+
+# Frame 21
+# object center in camera frame
+0.033197
+-0.033217
+0.503174
+1.000000
+# object center in robot frame
+0.361353
+0.013803
+0.110364
+1.000000
+# pt_transformed1
+0.366617
+-0.062970
+0.102830
+1.000000
+
+# pt_transformed2
+0.356090
+0.090577
+0.117898
+1.000000
+
+# Frame 22
+# object center in camera frame
+0.033292
+-0.033323
+0.502481
+1.000000
+# object center in robot frame
+0.360969
+0.013708
+0.110950
+1.000000
+# pt_transformed1
+0.366295
+-0.063082
+0.103624
+1.000000
+
+# pt_transformed2
+0.355644
+0.090498
+0.118275
+1.000000
+
+# Frame 23
+# object center in camera frame
+0.033703
+-0.032517
+0.500540
+1.000000
+# object center in robot frame
+0.359072
+0.013297
+0.111853
+1.000000
+# pt_transformed1
+0.363626
+-0.063461
+0.103723
+1.000000
+
+# pt_transformed2
+0.354517
+0.090055
+0.119983
+1.000000
+
+# Frame 24
+# object center in camera frame
+0.034251
+-0.031866
+0.498353
+1.000000
+# object center in robot frame
+0.357125
+0.012749
+0.113042
+1.000000
+# pt_transformed1
+0.361367
+-0.064095
+0.105576
+1.000000
+
+# pt_transformed2
+0.352882
+0.089592
+0.120508
+1.000000
+
+# Frame 25
+# object center in camera frame
+0.034964
+-0.031836
+0.495765
+1.000000
+# object center in robot frame
+0.355370
+0.012036
+0.114945
+1.000000
+# pt_transformed1
+0.359619
+-0.064863
+0.108073
+1.000000
+
+# pt_transformed2
+0.351121
+0.088934
+0.121817
+1.000000
+
+# Frame 26
+# object center in camera frame
+0.035768
+-0.030720
+0.492763
+1.000000
+# object center in robot frame
+0.352533
+0.011232
+0.116428
+1.000000
+# pt_transformed1
+0.356063
+-0.065701
+0.109532
+1.000000
+
+# pt_transformed2
+0.349002
+0.088165
+0.123325
+1.000000
+
+# Frame 27
+# object center in camera frame
+0.036253
+-0.030443
+0.489898
+1.000000
+# object center in robot frame
+0.350410
+0.010747
+0.118372
+1.000000
+# pt_transformed1
+0.353511
+-0.066172
+0.111129
+1.000000
+
+# pt_transformed2
+0.347308
+0.087667
+0.125616
+1.000000
+
+# Frame 28
+# object center in camera frame
+0.036595
+-0.030354
+0.487990
+1.000000
+# object center in robot frame
+0.349067
+0.010405
+0.119730
+1.000000
+# pt_transformed1
+0.351889
+-0.066554
+0.112791
+1.000000
+
+# pt_transformed2
+0.346245
+0.087363
+0.126669
+1.000000
+
+# Frame 29
+# object center in camera frame
+0.037331
+-0.030015
+0.482925
+1.000000
+# object center in robot frame
+0.345426
+0.009669
+0.123267
+1.000000
+# pt_transformed1
+0.348268
+-0.067270
+0.116131
+1.000000
+
+# pt_transformed2
+0.342583
+0.086609
+0.130403
+1.000000
+
+# Frame 30
+# object center in camera frame
+0.037913
+-0.029628
+0.479268
+1.000000
+# object center in robot frame
+0.342691
+0.009087
+0.125725
+1.000000
+# pt_transformed1
+0.344716
+-0.068024
+0.120389
+1.000000
+
+# pt_transformed2
+0.340667
+0.086198
+0.131061
+1.000000
+
+# Frame 31
+# object center in camera frame
+0.038124
+-0.028811
+0.474834
+1.000000
+# object center in robot frame
+0.339118
+0.008876
+0.128473
+1.000000
+# pt_transformed1
+0.340486
+-0.068257
+0.123237
+1.000000
+
+# pt_transformed2
+0.337750
+0.086008
+0.133709
+1.000000
+
+# Frame 32
+# object center in camera frame
+0.038376
+-0.027943
+0.470519
+1.000000
+# object center in robot frame
+0.335586
+0.008624
+0.131098
+1.000000
+# pt_transformed1
+0.336967
+-0.068454
+0.125113
+1.000000
+
+# pt_transformed2
+0.334205
+0.085701
+0.137084
+1.000000
+
+# Frame 33
+# object center in camera frame
+0.038608
+-0.027730
+0.466562
+1.000000
+# object center in robot frame
+0.332780
+0.008392
+0.133896
+1.000000
+# pt_transformed1
+0.333311
+-0.068693
+0.127858
+1.000000
+
+# pt_transformed2
+0.332248
+0.085476
+0.139933
+1.000000
+
+# Frame 34
+# object center in camera frame
+0.039141
+-0.026700
+0.461817
+1.000000
+# object center in robot frame
+0.328840
+0.007859
+0.136732
+1.000000
+# pt_transformed1
+0.328801
+-0.069287
+0.131514
+1.000000
+
+# pt_transformed2
+0.328879
+0.085005
+0.141950
+1.000000
+
+# Frame 35
+# object center in camera frame
+0.039754
+-0.025843
+0.459127
+1.000000
+# object center in robot frame
+0.326404
+0.007246
+0.138157
+1.000000
+# pt_transformed1
+0.325816
+-0.069837
+0.132109
+1.000000
+
+# pt_transformed2
+0.326991
+0.084329
+0.144206
+1.000000
+
+# Frame 36
+# object center in camera frame
+0.040890
+-0.025894
+0.454352
+1.000000
+# object center in robot frame
+0.323246
+0.006110
+0.141740
+1.000000
+# pt_transformed1
+0.322467
+-0.071055
+0.136869
+1.000000
+
+# pt_transformed2
+0.324026
+0.083274
+0.146611
+1.000000
+
+# Frame 37
+# object center in camera frame
+0.041542
+-0.025550
+0.450579
+1.000000
+# object center in robot frame
+0.320466
+0.005458
+0.144313
+1.000000
+# pt_transformed1
+0.319314
+-0.071709
+0.139549
+1.000000
+
+# pt_transformed2
+0.321618
+0.082624
+0.149077
+1.000000
+
+# Frame 38
+# object center in camera frame
+0.041900
+-0.024660
+0.447043
+1.000000
+# object center in robot frame
+0.317439
+0.005100
+0.146345
+1.000000
+# pt_transformed1
+0.315463
+-0.072049
+0.141558
+1.000000
+
+# pt_transformed2
+0.319415
+0.082248
+0.151132
+1.000000
+
+# Frame 39
+# object center in camera frame
+0.042640
+-0.024171
+0.442590
+1.000000
+# object center in robot frame
+0.314096
+0.004360
+0.149326
+1.000000
+# pt_transformed1
+0.311225
+-0.072765
+0.144608
+1.000000
+
+# pt_transformed2
+0.316966
+0.081484
+0.154044
+1.000000
+
+# Frame 40
+# object center in camera frame
+0.042453
+-0.023608
+0.439394
+1.000000
+# object center in robot frame
+0.311540
+0.004547
+0.151324
+1.000000
+# pt_transformed1
+0.308430
+-0.072589
+0.146967
+1.000000
+
+# pt_transformed2
+0.314650
+0.081684
+0.155681
+1.000000
+
+# Frame 41
+# object center in camera frame
+0.042828
+-0.023263
+0.435837
+1.000000
+# object center in robot frame
+0.308903
+0.004172
+0.153736
+1.000000
+# pt_transformed1
+0.305588
+-0.073013
+0.150530
+1.000000
+
+# pt_transformed2
+0.312218
+0.081356
+0.156943
+1.000000
+
+# Frame 42
+# object center in camera frame
+0.042814
+-0.022499
+0.432341
+1.000000
+# object center in robot frame
+0.305996
+0.004186
+0.155823
+1.000000
+# pt_transformed1
+0.302278
+-0.073008
+0.153365
+1.000000
+
+# pt_transformed2
+0.309714
+0.081380
+0.158281
+1.000000
+
+# Frame 43
+# object center in camera frame
+0.043385
+-0.021680
+0.429444
+1.000000
+# object center in robot frame
+0.303449
+0.003615
+0.157427
+1.000000
+# pt_transformed1
+0.299979
+-0.073612
+0.155801
+1.000000
+
+# pt_transformed2
+0.306919
+0.080842
+0.159052
+1.000000
+
+# Frame 44
+# object center in camera frame
+0.043927
+-0.020910
+0.427254
+1.000000
+# object center in robot frame
+0.301412
+0.003073
+0.158539
+1.000000
+# pt_transformed1
+0.297694
+-0.074152
+0.157455
+1.000000
+
+# pt_transformed2
+0.305129
+0.080298
+0.159624
+1.000000
+
+# Frame 45
+# object center in camera frame
+0.043797
+-0.020626
+0.424831
+1.000000
+# object center in robot frame
+0.299579
+0.003203
+0.160150
+1.000000
+# pt_transformed1
+0.295368
+-0.073995
+0.159000
+1.000000
+
+# pt_transformed2
+0.303790
+0.080402
+0.161299
+1.000000
+
+# Frame 46
+# object center in camera frame
+0.043317
+-0.020025
+0.422938
+1.000000
+# object center in robot frame
+0.297866
+0.003683
+0.161154
+1.000000
+# pt_transformed1
+0.293361
+-0.073500
+0.160002
+1.000000
+
+# pt_transformed2
+0.302371
+0.080865
+0.162307
+1.000000
+
+# Frame 47
+# object center in camera frame
+0.042344
+-0.019801
+0.420950
+1.000000
+# object center in robot frame
+0.296370
+0.004656
+0.162481
+1.000000
+# pt_transformed1
+0.291528
+-0.072510
+0.161721
+1.000000
+
+# pt_transformed2
+0.301212
+0.081823
+0.163241
+1.000000
+
+# Frame 48
+# object center in camera frame
+0.041693
+-0.019283
+0.419343
+1.000000
+# object center in robot frame
+0.294909
+0.005307
+0.163328
+1.000000
+# pt_transformed1
+0.290235
+-0.071874
+0.163473
+1.000000
+
+# pt_transformed2
+0.299583
+0.082487
+0.163183
+1.000000
+
+# Frame 49
+# object center in camera frame
+0.041722
+-0.018486
+0.416978
+1.000000
+# object center in robot frame
+0.292735
+0.005278
+0.164552
+1.000000
+# pt_transformed1
+0.287868
+-0.071891
+0.164720
+1.000000
+
+# pt_transformed2
+0.297603
+0.082446
+0.164385
+1.000000
+
+# Frame 50
+# object center in camera frame
+0.041559
+-0.017799
+0.413841
+1.000000
+# object center in robot frame
+0.290126
+0.005441
+0.166423
+1.000000
+# pt_transformed1
+0.286332
+-0.071788
+0.166346
+1.000000
+
+# pt_transformed2
+0.293920
+0.082670
+0.166501
+1.000000
+
+# Frame 51
+# object center in camera frame
+0.042084
+-0.018216
+0.411236
+1.000000
+# object center in robot frame
+0.288693
+0.004916
+0.168638
+1.000000
+# pt_transformed1
+0.285061
+-0.072320
+0.168454
+1.000000
+
+# pt_transformed2
+0.292324
+0.082153
+0.168823
+1.000000
+
+# Frame 52
+# object center in camera frame
+0.042586
+-0.018402
+0.408018
+1.000000
+# object center in robot frame
+0.286678
+0.004414
+0.171154
+1.000000
+# pt_transformed1
+0.283177
+-0.072820
+0.169939
+1.000000
+
+# pt_transformed2
+0.290178
+0.081647
+0.172369
+1.000000
+
+# Frame 53
+# object center in camera frame
+0.043139
+-0.018547
+0.404907
+1.000000
+# object center in robot frame
+0.284704
+0.003861
+0.173562
+1.000000
+# pt_transformed1
+0.281847
+-0.073396
+0.172167
+1.000000
+
+# pt_transformed2
+0.287561
+0.081118
+0.174957
+1.000000
+
+# Frame 54
+# object center in camera frame
+0.043150
+-0.018900
+0.403341
+1.000000
+# object center in robot frame
+0.283918
+0.003850
+0.174962
+1.000000
+# pt_transformed1
+0.281392
+-0.073417
+0.173511
+1.000000
+
+# pt_transformed2
+0.286444
+0.081118
+0.176413
+1.000000
+
+# Frame 55
+# object center in camera frame
+0.043164
+-0.018468
+0.399326
+1.000000
+# object center in robot frame
+0.280911
+0.003836
+0.177656
+1.000000
+# pt_transformed1
+0.278994
+-0.073447
+0.176109
+1.000000
+
+# pt_transformed2
+0.282828
+0.081118
+0.179203
+1.000000
+
+# Frame 56
+# object center in camera frame
+0.042850
+-0.018214
+0.396427
+1.000000
+# object center in robot frame
+0.278782
+0.004150
+0.179640
+1.000000
+# pt_transformed1
+0.276936
+-0.073127
+0.177764
+1.000000
+
+# pt_transformed2
+0.280629
+0.081427
+0.181516
+1.000000
+
+# Frame 57
+# object center in camera frame
+0.042765
+-0.017944
+0.393246
+1.000000
+# object center in robot frame
+0.276453
+0.004235
+0.181822
+1.000000
+# pt_transformed1
+0.274929
+-0.073044
+0.179746
+1.000000
+
+# pt_transformed2
+0.277977
+0.081514
+0.183898
+1.000000
+
+# Frame 58
+# object center in camera frame
+0.043154
+-0.017711
+0.389933
+1.000000
+# object center in robot frame
+0.274063
+0.003846
+0.184129
+1.000000
+# pt_transformed1
+0.272659
+-0.073433
+0.181946
+1.000000
+
+# pt_transformed2
+0.275467
+0.081124
+0.186311
+1.000000
+
+# Frame 59
+# object center in camera frame
+0.043581
+-0.018889
+0.387447
+1.000000
+# object center in robot frame
+0.273275
+0.003419
+0.186764
+1.000000
+# pt_transformed1
+0.271668
+-0.073869
+0.185133
+1.000000
+
+# pt_transformed2
+0.274882
+0.080707
+0.188394
+1.000000
+
+# Frame 60
+# object center in camera frame
+0.044816
+-0.019488
+0.384917
+1.000000
+# object center in robot frame
+0.272027
+0.002184
+0.189044
+1.000000
+# pt_transformed1
+0.270098
+-0.075107
+0.187987
+1.000000
+
+# pt_transformed2
+0.273957
+0.079475
+0.190101
+1.000000
+
+# Frame 61
+# object center in camera frame
+0.045165
+-0.019972
+0.382041
+1.000000
+# object center in robot frame
+0.270463
+0.001835
+0.191505
+1.000000
+# pt_transformed1
+0.268479
+-0.075461
+0.191318
+1.000000
+
+# pt_transformed2
+0.272446
+0.079132
+0.191691
+1.000000
+
+# Frame 62
+# object center in camera frame
+0.045808
+-0.019813
+0.379231
+1.000000
+# object center in robot frame
+0.268464
+0.001192
+0.193486
+1.000000
+# pt_transformed1
+0.266102
+-0.076090
+0.194313
+1.000000
+
+# pt_transformed2
+0.270826
+0.078473
+0.192659
+1.000000
+
+# Frame 63
+# object center in camera frame
+0.046232
+-0.019536
+0.376233
+1.000000
+# object center in robot frame
+0.266253
+0.000768
+0.195528
+1.000000
+# pt_transformed1
+0.263343
+-0.076478
+0.197355
+1.000000
+
+# pt_transformed2
+0.269163
+0.078014
+0.193701
+1.000000
+
+# Frame 64
+# object center in camera frame
+0.046347
+-0.019216
+0.373196
+1.000000
+# object center in robot frame
+0.263983
+0.000653
+0.197571
+1.000000
+# pt_transformed1
+0.260417
+-0.076522
+0.200726
+1.000000
+
+# pt_transformed2
+0.267549
+0.077829
+0.194416
+1.000000
+
+# Frame 65
+# object center in camera frame
+0.046501
+-0.018387
+0.369944
+1.000000
+# object center in robot frame
+0.261191
+0.000499
+0.199433
+1.000000
+# pt_transformed1
+0.256419
+-0.076547
+0.203900
+1.000000
+
+# pt_transformed2
+0.265963
+0.077544
+0.194965
+1.000000
+
+# Frame 66
+# object center in camera frame
+0.046753
+-0.017944
+0.366586
+1.000000
+# object center in robot frame
+0.258615
+0.000247
+0.201631
+1.000000
+# pt_transformed1
+0.252967
+-0.076665
+0.207236
+1.000000
+
+# pt_transformed2
+0.264263
+0.077158
+0.196027
+1.000000
+
+# Frame 67
+# object center in camera frame
+0.046933
+-0.017170
+0.362933
+1.000000
+# object center in robot frame
+0.255595
+0.000067
+0.203827
+1.000000
+# pt_transformed1
+0.249698
+-0.076747
+0.210420
+1.000000
+
+# pt_transformed2
+0.261493
+0.076881
+0.197234
+1.000000
+
+# Frame 68
+# object center in camera frame
+0.047357
+-0.016653
+0.359577
+1.000000
+# object center in robot frame
+0.252966
+-0.000357
+0.205975
+1.000000
+# pt_transformed1
+0.246460
+-0.077046
+0.213404
+1.000000
+
+# pt_transformed2
+0.259473
+0.076332
+0.198546
+1.000000
+
+# Frame 69
+# object center in camera frame
+0.047988
+-0.016085
+0.356030
+1.000000
+# object center in robot frame
+0.250171
+-0.000988
+0.208231
+1.000000
+# pt_transformed1
+0.243110
+-0.077602
+0.215914
+1.000000
+
+# pt_transformed2
+0.257232
+0.075627
+0.200547
+1.000000
+
+# Frame 70
+# object center in camera frame
+0.047735
+-0.015323
+0.352264
+1.000000
+# object center in robot frame
+0.247085
+-0.000735
+0.210519
+1.000000
+# pt_transformed1
+0.239705
+-0.077256
+0.218811
+1.000000
+
+# pt_transformed2
+0.254466
+0.075786
+0.202226
+1.000000
+
+# Frame 71
+# object center in camera frame
+0.047799
+-0.014787
+0.348499
+1.000000
+# object center in robot frame
+0.244167
+-0.000799
+0.212958
+1.000000
+# pt_transformed1
+0.236641
+-0.077300
+0.221303
+1.000000
+
+# pt_transformed2
+0.251693
+0.075702
+0.204612
+1.000000
+
+# Frame 72
+# object center in camera frame
+0.047910
+-0.014157
+0.345106
+1.000000
+# object center in robot frame
+0.241429
+-0.000910
+0.215057
+1.000000
+# pt_transformed1
+0.232941
+-0.077218
+0.224207
+1.000000
+
+# pt_transformed2
+0.249918
+0.075398
+0.205906
+1.000000
+
+# Frame 73
+# object center in camera frame
+0.047921
+-0.013854
+0.341753
+1.000000
+# object center in robot frame
+0.238961
+-0.000921
+0.217346
+1.000000
+# pt_transformed1
+0.230598
+-0.077208
+0.226777
+1.000000
+
+# pt_transformed2
+0.247324
+0.075367
+0.207915
+1.000000
+
+# Frame 74
+# object center in camera frame
+0.047753
+-0.014539
+0.338174
+1.000000
+# object center in robot frame
+0.237075
+-0.000753
+0.220463
+1.000000
+# pt_transformed1
+0.228052
+-0.077000
+0.229614
+1.000000
+
+# pt_transformed2
+0.246098
+0.075493
+0.211312
+1.000000
+
+# Frame 75
+# object center in camera frame
+0.047344
+-0.014985
+0.334663
+1.000000
+# object center in robot frame
+0.235057
+-0.000344
+0.223370
+1.000000
+# pt_transformed1
+0.225480
+-0.076462
+0.233015
+1.000000
+
+# pt_transformed2
+0.244634
+0.075774
+0.213725
+1.000000
+
+# Frame 76
+# object center in camera frame
+0.046887
+-0.015536
+0.331188
+1.000000
+# object center in robot frame
+0.233141
+0.000113
+0.226321
+1.000000
+# pt_transformed1
+0.223745
+-0.075989
+0.236262
+1.000000
+
+# pt_transformed2
+0.242537
+0.076216
+0.216379
+1.000000
+
+# Frame 77
+# object center in camera frame
+0.046148
+-0.016495
+0.327405
+1.000000
+# object center in robot frame
+0.231322
+0.000852
+0.229773
+1.000000
+# pt_transformed1
+0.221568
+-0.075177
+0.239929
+1.000000
+
+# pt_transformed2
+0.241076
+0.076881
+0.219617
+1.000000
+
+# Frame 78
+# object center in camera frame
+0.046053
+-0.016865
+0.323848
+1.000000
+# object center in robot frame
+0.229217
+0.000947
+0.232663
+1.000000
+# pt_transformed1
+0.219681
+-0.075095
+0.242920
+1.000000
+
+# pt_transformed2
+0.238754
+0.076990
+0.222406
+1.000000
+
+# Frame 79
+# object center in camera frame
+0.045502
+-0.018262
+0.320756
+1.000000
+# object center in robot frame
+0.228186
+0.001498
+0.235896
+1.000000
+# pt_transformed1
+0.218057
+-0.074452
+0.246274
+1.000000
+
+# pt_transformed2
+0.238316
+0.077447
+0.225518
+1.000000
+
+# Frame 80
+# object center in camera frame
+0.045055
+-0.018869
+0.317604
+1.000000
+# object center in robot frame
+0.226528
+0.001945
+0.238644
+1.000000
+# pt_transformed1
+0.215976
+-0.073909
+0.249302
+1.000000
+
+# pt_transformed2
+0.237080
+0.077798
+0.227985
+1.000000
+
+# Frame 81
+# object center in camera frame
+0.044437
+-0.019840
+0.314589
+1.000000
+# object center in robot frame
+0.225233
+0.002563
+0.241533
+1.000000
+# pt_transformed1
+0.214610
+-0.073239
+0.252480
+1.000000
+
+# pt_transformed2
+0.235855
+0.078365
+0.230586
+1.000000
+
+# Frame 82
+# object center in camera frame
+0.044376
+-0.021339
+0.311917
+1.000000
+# object center in robot frame
+0.224558
+0.002624
+0.244521
+1.000000
+# pt_transformed1
+0.213389
+-0.073054
+0.255782
+1.000000
+
+# pt_transformed2
+0.235728
+0.078302
+0.233261
+1.000000
+
+# Frame 83
+# object center in camera frame
+0.044016
+-0.022306
+0.309087
+1.000000
+# object center in robot frame
+0.223384
+0.002984
+0.247271
+1.000000
+# pt_transformed1
+0.211793
+-0.072648
+0.258411
+1.000000
+
+# pt_transformed2
+0.234974
+0.078616
+0.236131
+1.000000
+
+# Frame 84
+# object center in camera frame
+0.043962
+-0.023667
+0.306947
+1.000000
+# object center in robot frame
+0.222963
+0.003038
+0.249772
+1.000000
+# pt_transformed1
+0.211276
+-0.072537
+0.261197
+1.000000
+
+# pt_transformed2
+0.234651
+0.078612
+0.238346
+1.000000
+
+# Frame 85
+# object center in camera frame
+0.043710
+-0.025892
+0.304844
+1.000000
+# object center in robot frame
+0.223209
+0.003290
+0.252823
+1.000000
+# pt_transformed1
+0.211317
+-0.072245
+0.264299
+1.000000
+
+# pt_transformed2
+0.235101
+0.078825
+0.241347
+1.000000
+
+# Frame 86
+# object center in camera frame
+0.043675
+-0.028244
+0.302241
+1.000000
+# object center in robot frame
+0.223215
+0.003325
+0.256331
+1.000000
+# pt_transformed1
+0.211311
+-0.072178
+0.268003
+1.000000
+
+# pt_transformed2
+0.235118
+0.078828
+0.244658
+1.000000
+
+# Frame 87
+# object center in camera frame
+0.043123
+-0.029856
+0.299647
+1.000000
+# object center in robot frame
+0.222677
+0.003877
+0.259336
+1.000000
+# pt_transformed1
+0.210164
+-0.071561
+0.270790
+1.000000
+
+# pt_transformed2
+0.235189
+0.079316
+0.247883
+1.000000
+
+# Frame 88
+# object center in camera frame
+0.042455
+-0.031934
+0.296869
+1.000000
+# object center in robot frame
+0.222362
+0.004545
+0.262790
+1.000000
+# pt_transformed1
+0.209592
+-0.070799
+0.274576
+1.000000
+
+# pt_transformed2
+0.235131
+0.079889
+0.251004
+1.000000
+
+# Frame 89
+# object center in camera frame
+0.041613
+-0.033924
+0.293647
+1.000000
+# object center in robot frame
+0.221685
+0.005387
+0.266516
+1.000000
+# pt_transformed1
+0.208944
+-0.069927
+0.278521
+1.000000
+
+# pt_transformed2
+0.234426
+0.080701
+0.254510
+1.000000
+
+# Frame 90
+# object center in camera frame
+0.040723
+-0.035757
+0.290358
+1.000000
+# object center in robot frame
+0.220846
+0.006277
+0.270186
+1.000000
+# pt_transformed1
+0.207587
+-0.068926
+0.282326
+1.000000
+
+# pt_transformed2
+0.234105
+0.081479
+0.258046
+1.000000
+
+# Frame 91
+# object center in camera frame
+0.039391
+-0.038007
+0.286577
+1.000000
+# object center in robot frame
+0.219988
+0.007609
+0.274500
+1.000000
+# pt_transformed1
+0.207924
+-0.067747
+0.286932
+1.000000
+
+# pt_transformed2
+0.232053
+0.082966
+0.262068
+1.000000
+
+# Frame 92
+# object center in camera frame
+0.038664
+-0.041843
+0.281762
+1.000000
+# object center in robot frame
+0.219616
+0.008336
+0.280644
+1.000000
+# pt_transformed1
+0.207091
+-0.066924
+0.293204
+1.000000
+
+# pt_transformed2
+0.232141
+0.083596
+0.268084
+1.000000
+
+# Frame 93
+# object center in camera frame
+0.038539
+-0.042987
+0.280429
+1.000000
+# object center in robot frame
+0.219575
+0.008461
+0.282400
+1.000000
+# pt_transformed1
+0.206522
+-0.066635
+0.295392
+1.000000
+
+# pt_transformed2
+0.232628
+0.083557
+0.269407
+1.000000
+
+# Frame 94
+# object center in camera frame
+0.038390
+-0.046679
+0.276855
+1.000000
+# object center in robot frame
+0.219926
+0.008610
+0.287525
+1.000000
+# pt_transformed1
+0.206402
+-0.066357
+0.300775
+1.000000
+
+# pt_transformed2
+0.233451
+0.083578
+0.274275
+1.000000
+
+# Frame 95
+# object center in camera frame
+0.037842
+-0.048609
+0.275175
+1.000000
+# object center in robot frame
+0.220236
+0.009158
+0.290064
+1.000000
+# pt_transformed1
+0.206186
+-0.065570
+0.304096
+1.000000
+
+# pt_transformed2
+0.234287
+0.083886
+0.276032
+1.000000
+
+# Frame 96
+# object center in camera frame
+0.037392
+-0.049548
+0.273495
+1.000000
+# object center in robot frame
+0.219810
+0.009608
+0.291941
+1.000000
+# pt_transformed1
+0.205878
+-0.065222
+0.305543
+1.000000
+
+# pt_transformed2
+0.233741
+0.084438
+0.278339
+1.000000
+
+# Frame 97
+# object center in camera frame
+0.036603
+-0.051333
+0.271429
+1.000000
+# object center in robot frame
+0.219753
+0.010397
+0.294670
+1.000000
+# pt_transformed1
+0.205667
+-0.064341
+0.308616
+1.000000
+
+# pt_transformed2
+0.233839
+0.085134
+0.280724
+1.000000
+
+# Frame 98
+# object center in camera frame
+0.035948
+-0.053014
+0.270005
+1.000000
+# object center in robot frame
+0.220050
+0.011052
+0.296853
+1.000000
+# pt_transformed1
+0.205806
+-0.063643
+0.310864
+1.000000
+
+# pt_transformed2
+0.234293
+0.085748
+0.282842
+1.000000
+
+# Frame 99
+# object center in camera frame
+0.035441
+-0.054918
+0.268676
+1.000000
+# object center in robot frame
+0.220576
+0.011559
+0.299114
+1.000000
+# pt_transformed1
+0.205638
+-0.062968
+0.313298
+1.000000
+
+# pt_transformed2
+0.235514
+0.086086
+0.284929
+1.000000
+
+# Frame 100
+# object center in camera frame
+0.035796
+-0.057131
+0.267115
+1.000000
+# object center in robot frame
+0.221174
+0.011204
+0.301754
+1.000000
+# pt_transformed1
+0.206362
+-0.063374
+0.315802
+1.000000
+
+# pt_transformed2
+0.235987
+0.085782
+0.287706
+1.000000
+
+# Frame 101
+# object center in camera frame
+0.035368
+-0.059527
+0.265250
+1.000000
+# object center in robot frame
+0.221707
+0.011632
+0.304743
+1.000000
+# pt_transformed1
+0.206584
+-0.062753
+0.319464
+1.000000
+
+# pt_transformed2
+0.236830
+0.086018
+0.290023
+1.000000
+
+# Frame 102
+# object center in camera frame
+0.035270
+-0.062117
+0.263294
+1.000000
+# object center in robot frame
+0.222323
+0.011730
+0.307929
+1.000000
+# pt_transformed1
+0.206881
+-0.062592
+0.322641
+1.000000
+
+# pt_transformed2
+0.237766
+0.086051
+0.293217
+1.000000
+
+# Frame 103
+# object center in camera frame
+0.034767
+-0.064940
+0.261793
+1.000000
+# object center in robot frame
+0.223416
+0.012233
+0.310932
+1.000000
+# pt_transformed1
+0.207689
+-0.062016
+0.325711
+1.000000
+
+# pt_transformed2
+0.239143
+0.086481
+0.296154
+1.000000
+
+# Frame 104
+# object center in camera frame
+0.034555
+-0.067774
+0.260493
+1.000000
+# object center in robot frame
+0.224651
+0.012445
+0.313795
+1.000000
+# pt_transformed1
+0.209039
+-0.061720
+0.329104
+1.000000
+
+# pt_transformed2
+0.240264
+0.086610
+0.298485
+1.000000
+
+# Frame 105
+# object center in camera frame
+0.033825
+-0.070138
+0.258991
+1.000000
+# object center in robot frame
+0.225403
+0.013175
+0.316492
+1.000000
+# pt_transformed1
+0.209489
+-0.060899
+0.331927
+1.000000
+
+# pt_transformed2
+0.241318
+0.087250
+0.301056
+1.000000
+
+# Frame 106
+# object center in camera frame
+0.032996
+-0.071384
+0.258066
+1.000000
+# object center in robot frame
+0.225710
+0.014004
+0.318013
+1.000000
+# pt_transformed1
+0.210092
+-0.060002
+0.334069
+1.000000
+
+# pt_transformed2
+0.241329
+0.088009
+0.301957
+1.000000
+
+# Frame 107
+# object center in camera frame
+0.032970
+-0.072602
+0.257276
+1.000000
+# object center in robot frame
+0.226086
+0.014030
+0.319415
+1.000000
+# pt_transformed1
+0.210066
+-0.059897
+0.335439
+1.000000
+
+# pt_transformed2
+0.242106
+0.087957
+0.303390
+1.000000
+
+# Frame 108
+# object center in camera frame
+0.033191
+-0.073497
+0.256771
+1.000000
+# object center in robot frame
+0.226414
+0.013809
+0.320389
+1.000000
+# pt_transformed1
+0.210380
+-0.060030
+0.336801
+1.000000
+
+# pt_transformed2
+0.242447
+0.087647
+0.303976
+1.000000
+
+# Frame 109
+# object center in camera frame
+0.033434
+-0.074018
+0.256103
+1.000000
+# object center in robot frame
+0.226354
+0.013566
+0.321233
+1.000000
+# pt_transformed1
+0.210211
+-0.060246
+0.337659
+1.000000
+
+# pt_transformed2
+0.242497
+0.087378
+0.304808
+1.000000
+
+# Frame 110
+# object center in camera frame
+0.033275
+-0.073732
+0.255691
+1.000000
+# object center in robot frame
+0.225865
+0.013725
+0.321348
+1.000000
+# pt_transformed1
+0.209566
+-0.060077
+0.337665
+1.000000
+
+# pt_transformed2
+0.242165
+0.087527
+0.305032
+1.000000
+
+# Frame 111
+# object center in camera frame
+0.033358
+-0.073163
+0.255262
+1.000000
+# object center in robot frame
+0.225156
+0.013642
+0.321286
+1.000000
+# pt_transformed1
+0.208867
+-0.060230
+0.337293
+1.000000
+
+# pt_transformed2
+0.241445
+0.087514
+0.305279
+1.000000
+
+# Frame 112
+# object center in camera frame
+0.033025
+-0.072613
+0.255376
+1.000000
+# object center in robot frame
+0.224824
+0.013975
+0.320834
+1.000000
+# pt_transformed1
+0.208833
+-0.059924
+0.337018
+1.000000
+
+# pt_transformed2
+0.240815
+0.087873
+0.304649
+1.000000
+
+# Frame 113
+# object center in camera frame
+0.032937
+-0.071554
+0.255503
+1.000000
+# object center in robot frame
+0.224122
+0.014063
+0.320031
+1.000000
+# pt_transformed1
+0.207353
+-0.059702
+0.336036
+1.000000
+
+# pt_transformed2
+0.240891
+0.087828
+0.304026
+1.000000
+
+# Frame 114
+# object center in camera frame
+0.033163
+-0.070478
+0.255554
+1.000000
+# object center in robot frame
+0.223356
+0.013837
+0.319273
+1.000000
+# pt_transformed1
+0.206593
+-0.059963
+0.335123
+1.000000
+
+# pt_transformed2
+0.240119
+0.087636
+0.303424
+1.000000
+
+# Frame 115
+# object center in camera frame
+0.033184
+-0.069200
+0.255125
+1.000000
+# object center in robot frame
+0.222120
+0.013816
+0.318737
+1.000000
+# pt_transformed1
+0.205329
+-0.059962
+0.334656
+1.000000
+
+# pt_transformed2
+0.238911
+0.087595
+0.302817
+1.000000
+
+# Frame 116
+# object center in camera frame
+0.033059
+-0.068877
+0.254403
+1.000000
+# object center in robot frame
+0.221397
+0.013941
+0.319057
+1.000000
+# pt_transformed1
+0.204360
+-0.059822
+0.334783
+1.000000
+
+# pt_transformed2
+0.238434
+0.087704
+0.303331
+1.000000
+
+# Frame 117
+# object center in camera frame
+0.032641
+-0.068657
+0.254059
+1.000000
+# object center in robot frame
+0.221003
+0.014359
+0.319166
+1.000000
+# pt_transformed1
+0.204152
+-0.059418
+0.335026
+1.000000
+
+# pt_transformed2
+0.237854
+0.088136
+0.303306
+1.000000
+
+# Frame 118
+# object center in camera frame
+0.032325
+-0.068978
+0.254602
+1.000000
+# object center in robot frame
+0.221605
+0.014675
+0.318977
+1.000000
+# pt_transformed1
+0.204682
+-0.059049
+0.335006
+1.000000
+
+# pt_transformed2
+0.238527
+0.088399
+0.302947
+1.000000
+
+# Frame 119
+# object center in camera frame
+0.032635
+-0.068849
+0.255500
+1.000000
+# object center in robot frame
+0.222110
+0.014365
+0.318223
+1.000000
+# pt_transformed1
+0.205093
+-0.059377
+0.334067
+1.000000
+
+# pt_transformed2
+0.239126
+0.088108
+0.302380
+1.000000
+
+# Frame 120
+# object center in camera frame
+0.032627
+-0.068428
+0.255977
+1.000000
+# object center in robot frame
+0.222116
+0.014373
+0.317588
+1.000000
+# pt_transformed1
+0.204985
+-0.059455
+0.332901
+1.000000
+
+# pt_transformed2
+0.239248
+0.088202
+0.302274
+1.000000
+
+# Frame 121
+# object center in camera frame
+0.032350
+-0.067687
+0.256317
+1.000000
+# object center in robot frame
+0.221793
+0.014650
+0.316839
+1.000000
+# pt_transformed1
+0.204857
+-0.059198
+0.332274
+1.000000
+
+# pt_transformed2
+0.238730
+0.088497
+0.301403
+1.000000
+
+# Frame 122
+# object center in camera frame
+0.031851
+-0.067134
+0.255890
+1.000000
+# object center in robot frame
+0.221097
+0.015149
+0.316787
+1.000000
+# pt_transformed1
+0.203897
+-0.058576
+0.332517
+1.000000
+
+# pt_transformed2
+0.238296
+0.088874
+0.301057
+1.000000
+
+# Frame 123
+# object center in camera frame
+0.031310
+-0.066778
+0.254609
+1.000000
+# object center in robot frame
+0.219975
+0.015690
+0.317500
+1.000000
+# pt_transformed1
+0.202610
+-0.057955
+0.333422
+1.000000
+
+# pt_transformed2
+0.237340
+0.089334
+0.301578
+1.000000
+
+# Frame 124
+# object center in camera frame
+0.030020
+-0.065592
+0.252799
+1.000000
+# object center in robot frame
+0.217883
+0.016980
+0.318052
+1.000000
+# pt_transformed1
+0.200313
+-0.056619
+0.333959
+1.000000
+
+# pt_transformed2
+0.235453
+0.090580
+0.302144
+1.000000
+
+# Frame 125
+# object center in camera frame
+0.029132
+-0.065119
+0.252031
+1.000000
+# object center in robot frame
+0.217018
+0.017868
+0.318306
+1.000000
+# pt_transformed1
+0.199295
+-0.055713
+0.334128
+1.000000
+
+# pt_transformed2
+0.234740
+0.091449
+0.302483
+1.000000
+
+# Frame 126
+# object center in camera frame
+0.027550
+-0.063793
+0.250958
+1.000000
+# object center in robot frame
+0.215314
+0.019450
+0.318216
+1.000000
+# pt_transformed1
+0.197286
+-0.054068
+0.333984
+1.000000
+
+# pt_transformed2
+0.233342
+0.092968
+0.302448
+1.000000
+
+# Frame 127
+# object center in camera frame
+0.027354
+-0.064318
+0.250895
+1.000000
+# object center in robot frame
+0.215662
+0.019646
+0.318613
+1.000000
+# pt_transformed1
+0.197574
+-0.053868
+0.334334
+1.000000
+
+# pt_transformed2
+0.233750
+0.093160
+0.302893
+1.000000

@@ -1,0 +1,7 @@
+# Base-----------------------------------
+opencv-python>=4.6.0
+requests>=2.23.0
+scipy>=1.4.1
+torch>=1.7,<2.6
+gradio==3.35.2
+numpy<2.0
