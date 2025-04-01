@@ -9,6 +9,7 @@ parser = argparse.ArgumentParser()
 code_dir = os.path.dirname(os.path.realpath(__file__))
 parser.add_argument('--est_refine_iter', type=int, default=4)
 parser.add_argument('--track_refine_iter', type=int, default=2)
+parser.add_argument('--text_prompt', type=str, default="dark container with a label")
 args = parser.parse_args()
 
 set_logging_format()
@@ -18,12 +19,12 @@ root = tk.Tk()
 root.withdraw()
 
 # mesh_path = filedialog.askopenfilename() # PGT
-mesh_path = '/home/prajwal/Documents/Xbox.obj'
+mesh_path = '/home/prajwal/Documents/tote.obj'
 if not mesh_path:
     print("No mesh file selected")
     exit(0)
 # mask_file_path = create_mask() #PGT
-mask_file_path = create_mask_with_fastsam()
+mask_file_path = create_mask_with_fastsam(text_prompt=args.text_prompt) #PGT
 # mask_file_path = './mask.png' #same mask doesn't work for new run
 mesh = trimesh.load(mesh_path)
 to_origin, extents = trimesh.bounds.oriented_bounds(mesh)
@@ -59,26 +60,6 @@ cam_K = np.array([[615.37701416, 0., 313.68743896],
                    [0., 0., 1.]])
 Estimating = True
 time.sleep(3)
-
-# camera position in torso frame
-translation = np.array([0.06, 0.0, 0.45])
-
-# rpy
-euler_xyz = [0, -0.8, -1.57]  
-
-rotation_matrix = R.from_euler('xyz', euler_xyz).as_matrix()
-
-rotate_in_y_matrix = np.array([[-1, 0, 0],
-                            [0, 1, 0],
-                            [0, 0, -1]])
-
-rotation_matrix = rotate_in_y_matrix @ rotation_matrix
-
-T_torso_from_camera = np.eye(4)
-T_torso_from_camera[:3, :3] = rotation_matrix
-T_torso_from_camera[:3, 3] = translation
-
-
 
 T_torso_camera_new = np.array([[1.0000, 0.000, 0.0000, 0.0],
                            [0.0000, -0.743, -0.669, 0.344],

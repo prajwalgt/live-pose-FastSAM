@@ -74,7 +74,7 @@ def create_mask():
         pipeline.stop()
 
 
-def create_mask_with_fastsam(model_path="FastSAM-x.pt", device="cuda", imgsz=1024, conf=0.4, iou=0.9, retina=True, better_quality=True):
+def create_mask_with_fastsam(model_path="FastSAM-x.pt", device="cuda", imgsz=1024, conf=0.4, iou=0.9, retina=True, better_quality=True, text_prompt='xbox'):
     """
     Creates a mask using FastSAM model from a RealSense camera frame.
     
@@ -121,6 +121,8 @@ def create_mask_with_fastsam(model_path="FastSAM-x.pt", device="cuda", imgsz=102
         # Load image with PIL for FastSAM
         input_image = Image.open(temp_img_path)
         input_image = input_image.convert("RGB")
+
+        
         
         # Initialize FastSAM model
         print(f"Loading FastSAM model from {model_path}...")
@@ -139,7 +141,7 @@ def create_mask_with_fastsam(model_path="FastSAM-x.pt", device="cuda", imgsz=102
         
         # Initialize prompt processor with results
         prompt_process = FastSAMPrompt(input_image, everything_results, device=device)
-        ann = prompt_process.text_prompt(text='xbox')
+        ann = prompt_process.text_prompt(text=text_prompt)
         print(ann.shape)
         binary_mask = np.max(ann, axis=0).astype(np.uint8)
         binary_mask_255 = binary_mask * 255
