@@ -763,8 +763,8 @@ def draw_posed_3d_box_wpoints(K, img, ob_in_cam, bbox, line_color=(0,255,0), lin
   # Draw center point if requested
   if draw_center:
     # Calculate center of bounding box
-    center1 = np.array([(xmin + xmax) / 2, (ymin + ymax) / 2, zmin])
-    center2 = np.array([(xmin + xmax) / 2, (ymin + ymax) / 2, zmax])
+    center1 = np.array([(xmin + xmax) / 2, ymin, (zmin + zmax) / 2])
+    center2 = np.array([(xmin + xmax) / 2, ymax, (zmin + zmax) / 2])
     img, pt_transformed1 = draw_point3d(center1, img, center_color, center_radius)
     img, pt_transformed2 = draw_point3d(center2, img, center_color, center_radius)
 

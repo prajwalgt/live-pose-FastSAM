@@ -9,7 +9,8 @@ parser = argparse.ArgumentParser()
 code_dir = os.path.dirname(os.path.realpath(__file__))
 parser.add_argument('--est_refine_iter', type=int, default=4)
 parser.add_argument('--track_refine_iter', type=int, default=2)
-parser.add_argument('--text_prompt', type=str, default="dark container with a label")
+# parser.add_argument('--text_prompt', type=str, default="dark container with a label")
+parser.add_argument('--text_prompt', type=str, default="xbox")
 args = parser.parse_args()
 
 set_logging_format()
@@ -19,7 +20,7 @@ root = tk.Tk()
 root.withdraw()
 
 # mesh_path = filedialog.askopenfilename() # PGT
-mesh_path = '/home/prajwal/Documents/tote.obj'
+mesh_path = '/home/prajwal/Documents/Xbox.obj'
 if not mesh_path:
     print("No mesh file selected")
     exit(0)
