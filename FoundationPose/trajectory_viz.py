@@ -144,7 +144,7 @@ def plot_trajectory_projections(pt1_coords, pt2_coords, obj_coords=None):
     ax_xz.plot(pt2_x, pt2_z, 'b-', linewidth=2, label='Point 2')
     if obj_coords is not None and len(obj_coords[0]) > 0:
         ax_xz.plot(obj_coords[0], obj_coords[2], 'g-', linewidth=2, label='Object Center')
-    ax_xz.set_title('XZ Projection (Front View)')
+    ax_xz.set_title('XZ Projection (Side View)')
     ax_xz.set_xlabel('X')
     ax_xz.set_ylabel('Z')
     ax_xz.grid(True)
@@ -156,7 +156,7 @@ def plot_trajectory_projections(pt1_coords, pt2_coords, obj_coords=None):
     ax_yz.plot(pt2_y, pt2_z, 'b-', linewidth=2, label='Point 2')
     if obj_coords is not None and len(obj_coords[0]) > 0:
         ax_yz.plot(obj_coords[1], obj_coords[2], 'g-', linewidth=2, label='Object Center')
-    ax_yz.set_title('YZ Projection (Side View)')
+    ax_yz.set_title('YZ Projection (Front View)')
     ax_yz.set_xlabel('Y')
     ax_yz.set_ylabel('Z')
     ax_yz.grid(True)

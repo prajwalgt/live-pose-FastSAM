@@ -77,6 +77,9 @@ T_torso_camera_withshiftedy = np.array([[0.0000, -0.743, 0.6691, 0.0],
                                         [0.0000, -0.669, -0.743, 0.462],
                                         [0.0000, 0.000, 0.0000, 1.0000]]) ## THIS ONE WORKS
 
+frame_data = []  # List to store transformed points for each frame
+MAX_FRAMES = 100  # Maximum number of frames to store
+
 # Streaming loop
 try:
     while Estimating:
@@ -119,15 +122,8 @@ try:
         vis = draw_xyz_axis(color, ob_in_cam=center_pose, scale=0.1, K=cam_K, thickness=3, transparency=0, is_input_rgb=True)
         pt1_robotframe = T_torso_camera_withshiftedy @ pt_transformed1
         pt2_robotframe = T_torso_camera_withshiftedy @ pt_transformed2
-        # breakpoint()
-        # with open('transformed_points.txt', 'a') as f:
-        #     f.write(f"\n# Frame {i}\n")
-        #     f.write("# pt_transformed1\n")
-        #     np.savetxt(f, pt1_robotframe, fmt='%.6f')
-        #     f.write("\n# pt_transformed2\n")
-        #     np.savetxt(f, pt2_robotframe, fmt='%.6f')
 
-        with open('transformed_points.txt', 'a') as f:
+        """with open('transformed_points.txt', 'a') as f:
             f.write(f"\n# Frame {i}\n")
             f.write("# object center in camera frame\n")
             np.savetxt(f, object_center_in_camera, fmt='%.6f')
@@ -140,6 +136,46 @@ try:
         
         cv2.imshow('1', vis[...,::-1])
         cv2.waitKey(1)        
+        i += 1"""
+        # Store the transformed points for this frame
+        frame_data_entry = {
+            'frame_num': i % MAX_FRAMES,
+            'object_center_camera': object_center_in_camera,
+            'object_center_torso': object_center_in_torso,
+            'pt1_robotframe': pt1_robotframe,
+            'pt2_robotframe': pt2_robotframe
+        }
+        
+        # Store in our list - replace old entries if we exceed MAX_FRAMES
+        if i < MAX_FRAMES:
+            frame_data.append(frame_data_entry)
+        else:
+            # Replace the frame at index i % MAX_FRAMES
+            frame_data[i % MAX_FRAMES] = frame_data_entry
+            
+            # When we complete a full cycle of MAX_FRAMES, write all frames to file at once
+            if i % MAX_FRAMES == MAX_FRAMES - 1:
+                with open('transformed_points.txt', 'w') as f:
+                    f.write("# Transformed points from object tracking\n")
+                    for data in frame_data:
+                        frame_num = data['frame_num']
+                        f.write(f"\n# Frame {frame_num}\n")
+                        
+                        f.write("# object center in camera frame\n")
+                        np.savetxt(f, data['object_center_camera'], fmt='%.6f')
+                        
+                        f.write("# object center in robot frame\n")
+                        np.savetxt(f, data['object_center_torso'], fmt='%.6f')
+                        
+                        f.write("# pt_transformed1\n")
+                        np.savetxt(f, data['pt1_robotframe'], fmt='%.6f')
+                        
+                        f.write("\n# pt_transformed2\n")
+                        np.savetxt(f, data['pt2_robotframe'], fmt='%.6f')
+        
+        cv2.imshow('1', vis[...,::-1])
+        cv2.waitKey(1)
+        
         i += 1
         
 finally:

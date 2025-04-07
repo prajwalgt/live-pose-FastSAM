@@ -14,7 +14,7 @@ For Jetson device use [Jetpose](https://github.com/Kaivalya192/Jetpose).
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/Kaivalya192/live-pose.git
+    git clone https://github.com/prajwalgt/live-pose-FastSAM.git
     cd live-pose
     ```
 
@@ -28,8 +28,10 @@ For Jetson device use [Jetpose](https://github.com/Kaivalya192/Jetpose).
     docker build --network host -t foundationpose .
     ```
 
+CLIP should be installed when building the image, please check.
+
 2. **Install Weights**:
-   - Download the weights from [this link](https://drive.google.com/drive/folders/1wJayPZzZLZb6sxm6EeOQCJvzOAibJ693?usp=sharing) and place them under `live-pose/FoundationPose/weights`.
+   - Download the weights from [this link](https://drive.google.com/drive/folders/1wJayPZzZLZb6sxm6EeOQCJvzOAibJ693?usp=sharing) and place them under `live-pose-FastSAM/FoundationPose/weights`.
 
 ## Usage
 
